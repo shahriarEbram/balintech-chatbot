@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai==0.28
+google-search-results
+streamlit-chat
+streamlit_javascript
+
+
